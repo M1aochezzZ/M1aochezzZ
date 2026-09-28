@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🌱 I’m currently learning QingDao University
+## 🌱 I’m currently learning in QingDao University
 <!--
 **M1aochezzZ/M1aochezzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
